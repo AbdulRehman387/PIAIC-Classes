@@ -1,0 +1,10 @@
+Assalam u Alaikum @everyone
+https://www.youtube.com/watch?v=7LFnBZNcvdg&list=PLOfLYVXrwqXqvAeu9b4AeTsi9wZdAUfYp
+here is the recorded lecture for typescript, don't learn everything one go, 
+learn by step we covered in class, your primary focus for this week is to cover Variable concept in each cases.
+and try to complete these below programs as assignment01:
+1- Declare variables for a person's name, age, and whether they are a student, Print these variables to the console.
+2- Declare two variables with numeric values, Perform addition, subtraction, multiplication, and division on these variables, Print the results to the console.
+3- Declare a string variable with your favorite programming language, Print the final sentence to the console.
+
+submission form: https://forms.gle/aw9oatu8KgvpuAiPA

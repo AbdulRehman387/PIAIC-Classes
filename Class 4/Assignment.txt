@@ -1,0 +1,7 @@
+Assignment for the week is:
+ - Develop a program that determines the day of the week. From number 1 to 6 for 1 to 5 it should print day name Monday to Friday respectively and for 6 it should print weekend. Do it using switch statement.
+ - Try making ATM Machine matches pin and account number it it matches then user can withdraw amount. And if he or she hasn't sufficient balance show them a message .Show message for wrong account number and wrong pin separately.
+ - Write a ts program that prints message like "Good Morning" etc depending on time use hours only for now. Do it with both if else if abd switch statement.
+ - Write a program that prints the name of study for a person for instance   middle , matric etc from playgroup to PhD on basis of class number. Do it with both if else if and switch statement .
+ - Write a TS program that check ms wheather if the number is positive, zero or negative.
+ - Take 5 different numbers and check which on is greatest and then check which one is smallest use separate conditionals  for both scenarios.
