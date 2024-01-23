@@ -27,3 +27,4 @@ let arrayOfNumbers3 = [];
 for (let i = 0, j = arrayOfNumbers2.length - 1; i < arrayOfNumbers2.length; i++, j--) {
     console.log(arrayOfNumbers3[i] = arrayOfNumbers1[i] + arrayOfNumbers2[j]);
 }
+console.log(Math.round(10 / 6));
